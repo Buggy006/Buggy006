@@ -1,9 +1,11 @@
 <h2> Hey there! I'm Bagath. </h2>
 <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭 &nbsp; Internet of Things<br>
+- 🖥️ &nbsp; Internet of Things<br>
 - 🙋‍♂️ &nbsp; Always keen to upskill myself in technologies.<br>
 - 🎓 &nbsp; Purusing Computer Science and Engineering.<br>
+ <h3> 💻 Currently learning </h3>
+- &nbsp; Artificial Intelligence | Data Science
   <h3>🛠 Tech Stack</h3>
 - 🌐 &nbsp; HTML | CSS | JavaScript | Python
 

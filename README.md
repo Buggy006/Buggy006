@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 - 🖥️ &nbsp; A fervent tech enthusiasist who is constsantly eager to learn new things<br>
 - 🎓 &nbsp; B.E Computer Science.<br>
-- 🏢 &nbsb; System Engineer - BMW India IT Hub
+- 🏢  System Engineer - BMW India IT Hub
  <h3> 💻 Currently learning </h3>
 - &nbsp; Cloud Computing | Data Science | CyberSecurity 
   <h3>🛠 Tech Stack</h3>

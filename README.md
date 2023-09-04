@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Bagath. </h2>
+<h2> Hey there! I'm Buggy👾. </h2>
 <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
 <h3> 👨🏻‍💻 About Me </h3>
 🖥️ &nbsp; A fervent tech enthusiasist who is constsantly eager to learn new things<br>

@@ -1,14 +1,24 @@
 <h2> Hey there! I'm Bagath. </h2>
 <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🖥️ &nbsp; A fervent tech enthusiasist who is constsantly eager to learn new things<br>
-- 🎓 &nbsp; B.E Computer Science.<br>
-- 🏢  System Engineer - BMW India IT Hub
- <h3> 💻 Currently learning </h3>
-- &nbsp; Cloud Computing | Data Science | CyberSecurity 
+🖥️ &nbsp; A fervent tech enthusiasist who is constsantly eager to learn new things<br>
+🎓 &nbsp; B.E Computer Science.<br>
+🏢  Infrasturcture Engineer - BMW India IT Hub
+ <h3> 📚 Currently learning </h3>
+&nbsp; Cloud Computing | Devops | Infrastructure Automation 
   <h3>🛠 Tech Stack</h3>
-- 🌐 &nbsp; HTML | CSS | JavaScript | Python | AWS | AZURE | 
--    LINUX DISTRO - Ubuntu,Cent-OS
+<h4>Languages</h4> 
+HTML | CSS | JavaScript | Python | C++ 
+<h4>Opeating Systems</h4>
+Windows | Linux - Ubuntu , Cent -OS
+<h4>Automation</h4>
+Microsft Power Platform | Robotic Process Automation
+<h4>Cloud & Infrastructure</h4>
+AWS | AZURE | Terraform
+<h4>Devops</h4>
+Git| Jenkins | Docker | Kubernetes
+
+
 
 <br>
 </br>

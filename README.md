@@ -5,7 +5,7 @@
 🎓 &nbsp; B.E Computer Science.<br>
 🏢  Infrasturcture Engineer - BMW India IT Hub
  <h3> 📚 Currently learning </h3>
-&nbsp; Cloud Computing | Devops | Infrastructure Automation 
+&nbsp; Cloud Computing | Devops | Infrastructure Automation | web/Graphic Design
   <h3>🛠 Tech Stack</h3>
 <h4>Languages</h4> 
 HTML | CSS | JavaScript | Python | C++ 
